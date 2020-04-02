@@ -24,11 +24,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-# unlockpikepdf(data='ETT1-3000-PE-576-0001-00.pdf',
-#               suff='_out', dirtosave='')
 
-# unlockpikepdf(data=r'C:\Users\afsn3\Documents\GitHub\unlockpikepdf',
-#               suff='_out', dirtosave='')
-
-# TODO Developing a Unit Test
+# TODO Develop a Unit Test
 # https://code.visualstudio.com/docs/python/testing
+
+# TODO Develop CMD interface
